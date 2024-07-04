@@ -1,0 +1,14 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "web-crawler boot.dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
